@@ -1,0 +1,33 @@
+pip install django
+pip install djangorestframework
+django-admin startproject mealrater .
+python manage.py startapp api
+python manage.py migrate
+
+python manage.py createsuperuser
+django_proj
+django_proj@gmail.com
+django@@1
+
+
+python manage.py runserver
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
